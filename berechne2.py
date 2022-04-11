@@ -3,5 +3,6 @@ def multpilcation():
     print("Hello World, you're the best")
     print("This is my")
     print("weiter")
+    print("weiter2")
     pass
 #
